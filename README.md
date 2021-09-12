@@ -3,7 +3,7 @@
 
 <h1 align="center">Projeto Horta Automatizada</h1>
 
-<p align="center"> Esse projeto foi densenvolvido com o intuito de ajudar na irrigação e controle de luminosidade da horta/viveiro que possuo em minha residncia, foi utilizado arduino e seus componentes durante o desenvolvimento.  </p>
+<p align="center"> Esse projeto foi desenvolvido com o intuito de ajudar na irrigação e controle de luminosidade da horta/viveiro que possuo em minha residência, foi utilizado arduino e seus componentes durante o desenvolvimento.   </p>
 
 ---
 
